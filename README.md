@@ -7,3 +7,4 @@
 | 曲奇网盘 | https://quqi.com/ | 免费用户2048GB空间（2TB） | 1GB|
 | 天翼云盘 | https://cloud.189.cn/web/login.html | 免费用户60GB空间，不限速。 |单日上传流量2GB |
 | 文叔叔 | https://www.wenshushu.cn/ | 上传下载不限速，免费空间20GB | 5GB |
+| 飞猫盘 | https://www.feimaoyun.com/ | 不清楚 | 不清楚，感觉不稳，不是大企业或者老企业 |
