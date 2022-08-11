@@ -12,3 +12,4 @@
 | 小鹿快传 |https://deershare.com/send | p2p不依赖服务器 | 无 | 
 
 [小鹿快传源码](https://github.com/fanchangyong/deershare)
+[第三方网盘收录](http://qwang.cn/)
