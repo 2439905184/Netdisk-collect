@@ -10,6 +10,6 @@
 | 飞猫盘 | https://www.feimaoyun.com/ | 不清楚 | 不清楚，感觉不稳，不是大企业或者老企业 |
 | 奶牛快传|  https://cowtransfer.com/ | 上传下载不限速，免费空间10GB | 单文件似乎没有上传流量限制 
 | 小鹿快传 |https://deershare.com/send | p2p不依赖服务器 | 无 | 
-
+| nya盘 | https://pan.nyaku.moe/ | 支持外链 | 不清楚，主要用于喵御宅视频投稿 |
 [小鹿快传源码](https://github.com/fanchangyong/deershare)
 [第三方网盘收录](http://qwang.cn/)
